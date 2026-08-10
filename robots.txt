@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-na-piastriks-s-vyvodom.github.io
+Sitemap: https://kazino-na-piastriks-s-vyvodom.github.io/sitemap.xml
